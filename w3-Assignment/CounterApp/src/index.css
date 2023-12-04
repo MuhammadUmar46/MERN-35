@@ -1,0 +1,11 @@
+.CounterApp{
+  background-color: blueviolet;
+  color: white;
+  display: flex;
+  justify-content: center;
+}
+
+.Btn{
+  display: flex;
+  justify-content: center;
+}
